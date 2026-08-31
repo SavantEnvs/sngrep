@@ -1,0 +1,10 @@
+project: savantenvs/sngrep
+target: fuzz_sip_check_packet
+
+cmds:
+  - cmd: /mayhem/fuzz_sip_check_packet
+    libfuzzer: true
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_sip_check_packet/testsuite

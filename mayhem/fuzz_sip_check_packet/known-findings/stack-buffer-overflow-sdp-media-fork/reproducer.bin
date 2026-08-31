@@ -1,0 +1,83 @@
+INVITE sip:bob@esmple.com SIP/2.0
+Via: SIP/2.0/UDP host;branct
+t=0 0
+m=auÿÿdio 49170 RTP/AVP 0
+Caa=rtpmap:00
+a0 PCMU/80m=audio 49170 RTP/AVP 0
+a½r
+a=audio 49170 RTP/AVP 0
+a½r/80m=audio 49170 RTP/AVP 0
+a½r
+a=rtpmap:0
+t=î0 0
+m=audio 49170 RTP/AVP 0
+a½rtpp:bob@esmple.com SIP/2.0
+Via: SIP/2.0/UDP host;branct
+t=0 0
+m=auÿÿdio 49170 RTP/A/VP"0
+Caa=rtpmap:00
+a0 PCMU/80m=audio 49170 RTP/AVP 0
+a½r
+a=audio 49170 RTP/AVP 0
+a½r/80m=audio 49170 RTP/AVP 0
+a½r
+a=rtpmap:0
+t=î0 0
+m=audio 49170 RTP/AVP 0
+a½rtp170 RTP/AVP 0
+a=rtpmap:00
+a0 PCMU/80m=audio 49170 RTP/AVP 0
+a½r
+a=audio 49170 RTP/AVP 0
+a½r/80m=audio 49170 RTP/AVP 0
+ 0
+m=audio 49170 RTP/AVP 0
+a½rtpmqp:0 PCMU/80m=audio 49170 RTP/AVP 0mqp:0 PCVP 0
+a½rtp170 RTP/AVP
+ma½r
+a=rtpmap:0
+t=î0 0
+m=audio 49170 RTP/AVP 0
+a½rtpmqp:0 PCMU/80m=audio 49170 RTP/AVP 0mqp:0 PCVP 0
+a½rtp170 RTP/AVP
+m=auÿÿdio 49170 RTP/AVP 0
+a=rtpm RTP/AVP 0
+a½r/80m=audio 49170 RTP/AVP 0
+
+aar½=rtpmap:0
+t=î0 0
+m=audio 49170 RTP/AVP 0
+a½rtp170 RTP/AVP 0
+a=rtpmap:00
+a0 PCMU/80m=audio 49170 RTP/AVP 0
+a80m=audio 49170 RTP/AVP 0
+a½r
+a=audio 4917MU/80m=audio 49170 RTP/AVP 0
+a½rtpmap:0 PyCMU/8170 RTP/AVP 0
+a=rtpmap:00
+a0 PCMU/80m=audio 49170 RTP/AVP 0
+a½r
+a=audio 49170 RTP/AVP 0
+a½r/80m=audio 49170 RTP/AVP 0
+ 0
+m=audio 49170 RTP/AVP 0
+a½rtpmqp:0 PCMU/80m=audio 49170 RTP/AVP 0mqp:0 PCVP 0
+a½rtp170 RTP/AVP
+ma½r
+a=rtpmap:0
+t=î0 0
+m=audio 4917TP/AVP
+m=auÿÿdio 49170 RTP/AVP 0
+a=rtpm RTP/AVP 0
+a½r/80m=audio 49170 RTP/AVP 0
+a½r
+a=rtpmap:0
+t=î0 0
+m=audio 49170 RTP/AVP 0
+a½rtp170 RTP/AVP 0
+a=rtpmap:00
+a0 PCMU/80m=audio 49170 RTP/AVP 0
+a80m=audio 49170 RTP/AVP 0
+a½r
+a=audio 4917MU/80m=audio 49170 RTP/AVP 0
+a½rtpmap:0 PyCMU/80
